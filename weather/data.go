@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-const API_KEY = "API_346f820b8b57367bb052d099256c939d_KEY"
+const API_KEY = "API_KEY"
 
 // getWeather is a function that retrieves weather data from the OpenWeatherMap API based on the provided latitude and longitude.
 // It constructs the API URL using the latitude, longitude, and API key, and sends an HTTP GET request to fetch the data.
